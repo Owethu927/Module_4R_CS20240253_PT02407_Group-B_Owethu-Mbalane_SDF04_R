@@ -18,7 +18,8 @@ body {
     padding: 80px;
     border-radius: 10px;
     width: 80%;
-    position: relative; 
+    position: relative;
+    height: 15%; 
   }
   
   .pastry {
@@ -37,7 +38,7 @@ body {
   .pastry1 { /* Cookie */
     top: 0;
     left: 0;
-    background-color: #f0bb7f; 
+    background-color: #f0bb7f;
   }
   
   .pastry2 { /* Brownie */
