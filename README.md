@@ -40,3 +40,6 @@ You have everything you need to start your project using the GitHub Starter repo
 
 1. Submit your GitHub repo link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
+
+Loom recording 
+https://www.loom.com/share/83be3b7e436448f79469f48f9fa9c147?sid=612ab500-6efe-4b37-ab5f-6dde81a78bd5
